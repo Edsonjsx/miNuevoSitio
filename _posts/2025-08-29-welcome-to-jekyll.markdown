@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Bienvenido a Edson!"
 date:   2025-08-29 21:26:59 -0500
 categories: jekyll update
 ---
